@@ -29,7 +29,8 @@ http.createServer((request, response) => {
             ' <title>My Node.js page!</title>' +
             ' </head>' +
             ' <body>' +
-            ' <p>Here is another a paragraph of <strong>HTML</strong>!</p>' +
+            ' <h1>My Basic Node.js starting page!</h1>' +
+            ' <p>And this is a paragraph of <strong>HTML</strong>!</p>' +
             body +
             ' </body>' +
             '</html>');

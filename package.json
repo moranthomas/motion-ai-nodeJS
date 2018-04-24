@@ -13,6 +13,9 @@
         "ejs": "^2.5.7",
         "es6-promise": "^4.1.1",
         "express": "^4.16.2",
-        "nodemon": "^1.12.1"
+        "firebase": "^4.13.1",
+        "firebase-tools": "^3.18.4",
+        "nodemon": "^1.12.1",
+        "request": "^2.85.0"
     }
 }
